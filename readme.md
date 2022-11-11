@@ -32,6 +32,8 @@ The model is optimized using recall score so as to minimize false negatives. i.e
 
 Data gotten from [UCL ML Parkinson's dataset] (https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/)
 
+blog post https://www.datainsightonline.com/post/parkinson-s-speech
+
 ### Reference
 
 'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', 
